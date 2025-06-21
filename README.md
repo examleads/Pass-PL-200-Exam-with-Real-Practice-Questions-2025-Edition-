@@ -91,3 +91,5 @@ pl-200, power-platform, functional-consultant, microsoft-certification, power-ap
 ## 🔐 License
 
 Content for learning and community support. We’re not affiliated with Microsoft. All rights reserved to respective trademark owners.
+📄 Licensed under the [MIT License](./LICENSE)
+
